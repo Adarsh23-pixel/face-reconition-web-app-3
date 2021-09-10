@@ -1,0 +1,27 @@
+#father_container{
+    background-color: blue;
+    height: 50px;
+}
+#mother_container{
+    background-color: blue;
+    height: 50px;
+}
+#adarsh_container{
+    background-color: blue;
+    height: 50px;
+}
+#father{
+    color: white;
+    font-family: sans-serif;
+}
+#mother{
+    color: white;
+    font-family: sans-serif;
+}
+#adarsh{
+    color: white;
+    font-family: sans-serif;
+}
+body{
+    background-color: plum;
+}
